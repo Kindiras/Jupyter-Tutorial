@@ -1,2 +1,2 @@
 # Jupyter-Tutorial
-Install anaconda
+Install [anaconda](https://www.anaconda.com/download)
