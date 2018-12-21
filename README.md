@@ -6,4 +6,4 @@
 4. Hit 'return' to give new line for code.
 5. In macbook 'shift+return' runs the code and gives output.
 6. Click on file > Download as> .ipynb with appropriate file and save it ![save](save.png). 
-7. ctl+ two time pressing c cancel the jupyter notebook terminal.
+7. 'ctrl+ two time pressing c' cancel the jupyter notebook terminal.
