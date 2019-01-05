@@ -7,4 +7,4 @@
 5. In macbook `shift+return` runs the code and gives output.
 6. Click on `file > Download as> .ipynb' with appropriate file and save it ![save](save.png). 
 7. `ctrl+ two time pressing c` cancel the jupyter notebook terminal.
-8. To delet the cell, go to the cell and from file `delet` it.
+8. To delet the cell, go to the cell and from `edit` `delet` it.
